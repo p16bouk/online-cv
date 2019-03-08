@@ -49,32 +49,21 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Department of Informatics
+      university: Ionian University
+      time: 2016 - Today
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        In 2016, my goal was to pass the school's exams to get in this department. And now, I enjoy the lessons,
+        the professors and the labs that my University provides to us. I would like to successfully finish the 
+        assignments of all the lessons and make my thesis. 
+        So, sectors that I want to be occupied with are:
 
-          - Bullet point
-          - Bullet point
+          - Data Bases
+          - Programming in Java
+          - Graphics
+          - Information Retrieval
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+    
 experiences:
     - role: Lead Developer
       time: 2015 - Present
