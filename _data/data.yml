@@ -153,19 +153,19 @@ skills:
 
     toolset:
     
-    - name: MS OFFICE, EXCEL, POWERPOINT
+    - name: MS OFFICE EXCEL POWERPOINT
         level: 85%
         
-        - name: Photoshop
+    - name: Photoshop
         level: 40%
         
-        - name: Atom
+    - name: Atom
         level: 65%
         
-      - name: Synergistic
+    - name: Synergistic
         level: 98%
 
-      - name: Patient
+    - name: Patient
         level: 98%
 
      
