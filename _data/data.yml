@@ -38,15 +38,13 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Introducing myself
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      My name is Charalampos Bouklis and I am 21 years old. I'm student in Ionian University. 
+      I think that if you have tenacity for solving your life-hardships and your own troubles you can
+      also make your dream come true. My personal dream is to be scientist of computers and 
+      informatics, make my family, be a happy and fair person and I'm working on this. I really enjoy 
+      working on teams and I every time try to give my best for my team and my colleagues. 
 
 education:
     - degree: BSc in Department of Informatics
@@ -127,47 +125,6 @@ projects:
         link: "assets/c/PetrosSpachos.pdf"
         tagline:
         
-     
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-
-    skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: MS Office & PowerPoint & Excel
-        level: 85%
-
-      - name: Atom
-        level: 65%
-
-      - name: Photoshop
-        level: 40%
-
-      - name: Synergistic
-        level: 98%
-
-      - name: Patient
-        level: 98%
-     
      
 
 footer: >
