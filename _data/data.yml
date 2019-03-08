@@ -148,25 +148,25 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
+
+    skills:
     title: Skills &amp; Proficiency
 
     toolset:
-    - name: MS OFFICE & EXCEL & POWERPOINT
+      - name: MS Office & PowerPoint & Excel
         level: 85%
-        
-    - name: Photoshop
-        level: 40%
-        
-    - name: Atom
+
+      - name: Atom
         level: 65%
-        
-    - name: Synergistic
+
+      - name: Photoshop
+        level: 40%
+
+      - name: Synergistic
         level: 98%
 
-    - name: Patient
+      - name: Patient
         level: 98%
-
      
      
 
