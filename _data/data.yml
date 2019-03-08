@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Charalampos Bouklis
     tagline: Undergraduated Student
-    avatar: /assets/images/profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: assets/images/profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: kevin4mpouk@gmail.com
